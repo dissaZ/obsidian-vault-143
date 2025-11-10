@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"85c6252e8afc7210","x":-139,"y":-138,"width":250,"height":60,"type":"text","text":"источник"},
+		{"id":"90d4c4e916ab641b","x":220,"y":-162,"width":250,"height":84,"type":"text","text":"восприятие, символическое изображение"},
+		{"id":"9b22ca638dc3647d","x":561,"y":-115,"width":250,"height":60,"type":"text","text":"послание"},
+		{"id":"21b0c2d6c10d60bb","x":616,"y":175,"width":250,"height":60,"type":"text","text":"значение, результат"},
+		{"id":"13eca9736db5c26c","x":221,"y":0,"width":250,"height":60,"type":"text","text":"адресат воздействия (путь)"},
+		{"id":"776254fb61deb93e","x":221,"y":85,"width":250,"height":60,"type":"text","text":"интерпретация, анализ"},
+		{"id":"a847aecbcbae242e","x":-180,"y":280,"width":250,"height":60,"type":"text","text":"обратная связь"},
+		{"id":"2cd1097c7c6fd7e0","x":20,"y":175,"width":250,"height":60,"type":"text","text":"получатель информации"},
+		{"id":"3d88476b07b19ad7","x":229,"y":448,"width":250,"height":60,"type":"text","text":"(информация на выходе из системы общения)"},
+		{"id":"d4845cb6b7d89cef","x":145,"y":-320,"width":417,"height":97,"type":"text","text":"# Схема структуры общения"}
+	],
+	"edges":[
+		{"id":"0651fb5564618ab3","fromNode":"21b0c2d6c10d60bb","fromSide":"bottom","toNode":"a847aecbcbae242e","toSide":"bottom"},
+		{"id":"a8b50c0fd385d9fe","fromNode":"a847aecbcbae242e","fromSide":"top","toNode":"85c6252e8afc7210","toSide":"bottom"},
+		{"id":"5b85c890defac809","fromNode":"85c6252e8afc7210","fromSide":"right","toNode":"90d4c4e916ab641b","toSide":"left"},
+		{"id":"1ccb42b754dc5b6b","fromNode":"90d4c4e916ab641b","fromSide":"right","toNode":"9b22ca638dc3647d","toSide":"left"},
+		{"id":"38b85073f4db0025","fromNode":"9b22ca638dc3647d","fromSide":"bottom","toNode":"21b0c2d6c10d60bb","toSide":"top"},
+		{"id":"fb999eb35f90df56","fromNode":"13eca9736db5c26c","fromSide":"right","toNode":"21b0c2d6c10d60bb","toSide":"top"},
+		{"id":"0ce54b801797b8b4","fromNode":"13eca9736db5c26c","fromSide":"right","toNode":"9b22ca638dc3647d","toSide":"bottom"},
+		{"id":"aed006aa7f45f07d","fromNode":"13eca9736db5c26c","fromSide":"left","toNode":"2cd1097c7c6fd7e0","toSide":"top"},
+		{"id":"f29e86041f90ae78","fromNode":"2cd1097c7c6fd7e0","fromSide":"right","toNode":"776254fb61deb93e","toSide":"bottom"},
+		{"id":"4f5daf7f4462a54f","fromNode":"776254fb61deb93e","fromSide":"right","toNode":"21b0c2d6c10d60bb","toSide":"left"}
+	]
+}

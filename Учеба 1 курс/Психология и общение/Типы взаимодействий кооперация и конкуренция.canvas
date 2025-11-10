@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"92d04aa689118950","x":-43,"y":-185,"width":250,"height":60,"type":"text","text":"# Мотив"},
+		{"id":"3394a518a6c8982b","x":-454,"y":124,"width":250,"height":76,"type":"text","text":"## Операция - способ осуществления действия"},
+		{"id":"6ec6804ab14652dd","x":-454,"y":-185,"width":250,"height":60,"type":"text","text":"# Деятельность"},
+		{"id":"c9c46651dcbd59e7","x":-454,"y":-18,"width":250,"height":60,"type":"text","text":"# Действие"},
+		{"id":"8f54d8d2ea814353","x":-43,"y":-18,"width":250,"height":60,"type":"text","text":"# Цель"},
+		{"id":"ef0bd99b04f09a43","x":-43,"y":121,"width":250,"height":79,"type":"text","text":"## Условие осуществление действия"}
+	],
+	"edges":[
+		{"id":"4ff8e706aff0a10d","fromNode":"92d04aa689118950","fromSide":"left","toNode":"6ec6804ab14652dd","toSide":"right"},
+		{"id":"ee1500e4bb6a5839","fromNode":"92d04aa689118950","fromSide":"bottom","toNode":"8f54d8d2ea814353","toSide":"top"},
+		{"id":"9752bca49777997b","fromNode":"c9c46651dcbd59e7","fromSide":"right","toNode":"8f54d8d2ea814353","toSide":"left"},
+		{"id":"f2fcfd2c7b52e20a","fromNode":"6ec6804ab14652dd","fromSide":"bottom","toNode":"c9c46651dcbd59e7","toSide":"top"},
+		{"id":"aa84a409d4264cc0","fromNode":"c9c46651dcbd59e7","fromSide":"bottom","toNode":"3394a518a6c8982b","toSide":"top"},
+		{"id":"49e13a7303e58033","fromNode":"ef0bd99b04f09a43","fromSide":"left","toNode":"3394a518a6c8982b","toSide":"right"},
+		{"id":"c441ff07219a0518","fromNode":"8f54d8d2ea814353","fromSide":"bottom","toNode":"ef0bd99b04f09a43","toSide":"top"}
+	]
+}

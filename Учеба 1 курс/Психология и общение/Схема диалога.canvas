@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"3691879045d7eda0","type":"text","text":"Интенция","x":-246,"y":-141,"width":250,"height":60},
+		{"id":"039287f00fd63b7a","type":"text","text":"Смысл","x":-173,"y":-314,"width":250,"height":60},
+		{"id":"321ab0c5ef50d5bc","type":"text","text":"кодирования","x":45,"y":-460,"width":250,"height":60},
+		{"id":"0f06e88c8291bb4a","type":"text","text":"реакция","x":1177,"y":-284,"width":250,"height":60},
+		{"id":"2f5bb378fc254935","type":"text","text":"текст","x":350,"y":-558,"width":250,"height":60},
+		{"id":"df63d4a31213a9f6","type":"text","text":"декодирование","x":677,"y":-498,"width":250,"height":60},
+		{"id":"cee4dbb0cd8c7dfe","type":"text","text":"раскрытие смысла","x":927,"y":-400,"width":250,"height":60},
+		{"id":"1ac517bc37e65130","type":"text","text":"(Сообщение)","x":543,"y":-152,"width":250,"height":112},
+		{"id":"dc38650de30a208c","type":"text","text":"реципиент\n","x":900,"y":-152,"width":250,"height":112},
+		{"id":"929abf386b5ead47","type":"text","text":"Коммуникатов\n","x":200,"y":-152,"width":250,"height":112}
+	],
+	"edges":[
+		{"id":"5347ba7ff4a96851","fromNode":"3691879045d7eda0","fromSide":"top","toNode":"039287f00fd63b7a","toSide":"bottom"},
+		{"id":"f7ee4cc6dfae181e","fromNode":"039287f00fd63b7a","fromSide":"top","toNode":"321ab0c5ef50d5bc","toSide":"left"},
+		{"id":"45a20d553b9747a9","fromNode":"321ab0c5ef50d5bc","fromSide":"top","toNode":"2f5bb378fc254935","toSide":"left"},
+		{"id":"fae56ebc41a611c3","fromNode":"2f5bb378fc254935","fromSide":"right","toNode":"df63d4a31213a9f6","toSide":"left"},
+		{"id":"b86c0237885ef005","fromNode":"df63d4a31213a9f6","fromSide":"bottom","toNode":"cee4dbb0cd8c7dfe","toSide":"top"},
+		{"id":"b1225e813fa04db4","fromNode":"cee4dbb0cd8c7dfe","fromSide":"bottom","toNode":"0f06e88c8291bb4a","toSide":"top"},
+		{"id":"2528505e2ecf8500","fromNode":"929abf386b5ead47","fromSide":"right","toNode":"1ac517bc37e65130","toSide":"left"},
+		{"id":"28061c9c6fd9eb17","fromNode":"1ac517bc37e65130","fromSide":"right","toNode":"dc38650de30a208c","toSide":"left"}
+	]
+}
