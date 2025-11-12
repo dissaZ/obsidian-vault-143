@@ -4,7 +4,8 @@
 		{"id":"b1c34840cce64607","type":"text","text":"_self\nпо умолчанию","x":82,"y":-50,"width":250,"height":60,"color":"3"},
 		{"id":"6308dfe22b191bf8","type":"text","text":"_blank","x":-418,"y":-50,"width":250,"height":60,"color":"3"},
 		{"id":"d8eb303a79224f11","type":"text","text":"_parent \nзагружает страницу во фрейме. Если фреймов нет, то значение работает как _self","x":-168,"y":71,"width":250,"height":149,"color":"3"},
-		{"id":"36477baba5fb9bdc","type":"text","text":"_Top\nотменяет все фреймы, и загружает страницу в полном окне браузера, если фреймов нет, работает как self","x":-840,"y":-87,"width":250,"height":187,"color":"3"}
+		{"id":"36477baba5fb9bdc","type":"text","text":"_Top\nотменяет все фреймы, и загружает страницу в полном окне браузера, если фреймов нет, работает как self","x":-840,"y":-87,"width":250,"height":187,"color":"3"},
+		{"id":"29a2d58183fbe9d8","x":-611,"y":-566,"width":250,"height":60,"type":"text","text":"[[ИНФ ТЕХ]]"}
 	],
 	"edges":[
 		{"id":"843f62d7201ce862","fromNode":"f55339add6bb1969","fromSide":"bottom","toNode":"b1c34840cce64607","toSide":"top"},

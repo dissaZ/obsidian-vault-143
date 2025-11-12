@@ -1,15 +1,16 @@
 {
 	"nodes":[
-		{"id":"85c6252e8afc7210","x":-139,"y":-138,"width":250,"height":60,"type":"text","text":"источник"},
-		{"id":"90d4c4e916ab641b","x":220,"y":-162,"width":250,"height":84,"type":"text","text":"восприятие, символическое изображение"},
-		{"id":"9b22ca638dc3647d","x":561,"y":-115,"width":250,"height":60,"type":"text","text":"послание"},
-		{"id":"21b0c2d6c10d60bb","x":616,"y":175,"width":250,"height":60,"type":"text","text":"значение, результат"},
-		{"id":"13eca9736db5c26c","x":221,"y":0,"width":250,"height":60,"type":"text","text":"адресат воздействия (путь)"},
-		{"id":"776254fb61deb93e","x":221,"y":85,"width":250,"height":60,"type":"text","text":"интерпретация, анализ"},
-		{"id":"a847aecbcbae242e","x":-180,"y":280,"width":250,"height":60,"type":"text","text":"обратная связь"},
-		{"id":"2cd1097c7c6fd7e0","x":20,"y":175,"width":250,"height":60,"type":"text","text":"получатель информации"},
-		{"id":"3d88476b07b19ad7","x":229,"y":448,"width":250,"height":60,"type":"text","text":"(информация на выходе из системы общения)"},
-		{"id":"d4845cb6b7d89cef","x":145,"y":-320,"width":417,"height":97,"type":"text","text":"# Схема структуры общения"}
+		{"id":"5a21f2801e0bfa00","x":-253,"y":-322,"width":250,"height":60,"type":"text","text":""},
+		{"id":"85c6252e8afc7210","type":"text","text":"источник","x":-139,"y":-138,"width":250,"height":60},
+		{"id":"90d4c4e916ab641b","type":"text","text":"восприятие, символическое изображение","x":220,"y":-162,"width":250,"height":84},
+		{"id":"9b22ca638dc3647d","type":"text","text":"послание","x":561,"y":-115,"width":250,"height":60},
+		{"id":"21b0c2d6c10d60bb","type":"text","text":"значение, результат","x":616,"y":175,"width":250,"height":60},
+		{"id":"13eca9736db5c26c","type":"text","text":"адресат воздействия (путь)","x":221,"y":0,"width":250,"height":60},
+		{"id":"776254fb61deb93e","type":"text","text":"интерпретация, анализ","x":221,"y":85,"width":250,"height":60},
+		{"id":"a847aecbcbae242e","type":"text","text":"обратная связь","x":-180,"y":280,"width":250,"height":60},
+		{"id":"2cd1097c7c6fd7e0","type":"text","text":"получатель информации","x":20,"y":175,"width":250,"height":60},
+		{"id":"3d88476b07b19ad7","type":"text","text":"(информация на выходе из системы общения)","x":229,"y":448,"width":250,"height":60},
+		{"id":"d4845cb6b7d89cef","type":"text","text":"# Схема структуры общения","x":145,"y":-320,"width":417,"height":97}
 	],
 	"edges":[
 		{"id":"0651fb5564618ab3","fromNode":"21b0c2d6c10d60bb","fromSide":"bottom","toNode":"a847aecbcbae242e","toSide":"bottom"},

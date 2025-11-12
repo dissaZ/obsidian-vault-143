@@ -21,7 +21,8 @@
 		{"id":"bade4aac1048e124","type":"text","text":"# Цикл B с 5 до 8 шаг 0.5","x":1708,"y":40,"width":250,"height":60},
 		{"id":"9e086d31b4916efc","type":"text","text":"# Объявление A, Y, B, L","x":1708,"y":-60,"width":250,"height":60},
 		{"id":"0b222c8230fabb26","type":"text","text":"# Старт","x":1781,"y":-160,"width":104,"height":60},
-		{"id":"2fcede83917dd857","type":"text","text":"# Конец","x":1708,"y":360,"width":250,"height":60}
+		{"id":"2fcede83917dd857","type":"text","text":"# Конец","x":1708,"y":360,"width":250,"height":60},
+		{"id":"58621e49d9130374","x":209,"y":-969,"width":250,"height":60,"type":"text","text":"[[оаип]] "}
 	],
 	"edges":[
 		{"id":"24f3bd4068e3ef60","fromNode":"9e47304e6c48013a","fromSide":"bottom","toNode":"af8d0c7f3aafefe2","toSide":"top"},

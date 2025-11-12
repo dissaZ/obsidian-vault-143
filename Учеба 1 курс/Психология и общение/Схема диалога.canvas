@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"96ee81299ce5d40d","x":69,"y":-809,"width":250,"height":60,"type":"text","text":""},
 		{"id":"3691879045d7eda0","type":"text","text":"Интенция","x":-246,"y":-141,"width":250,"height":60},
 		{"id":"039287f00fd63b7a","type":"text","text":"Смысл","x":-173,"y":-314,"width":250,"height":60},
 		{"id":"321ab0c5ef50d5bc","type":"text","text":"кодирования","x":45,"y":-460,"width":250,"height":60},
