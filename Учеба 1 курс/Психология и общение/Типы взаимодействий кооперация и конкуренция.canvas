@@ -6,7 +6,7 @@
 		{"id":"c9c46651dcbd59e7","type":"text","text":"# Действие","x":-454,"y":-18,"width":250,"height":60},
 		{"id":"8f54d8d2ea814353","type":"text","text":"# Цель","x":-43,"y":-18,"width":250,"height":60},
 		{"id":"ef0bd99b04f09a43","type":"text","text":"## Условие осуществление действия","x":-43,"y":121,"width":250,"height":79},
-		{"id":"95fa7281418b2274","x":-578,"y":-358,"width":250,"height":60,"type":"text","text":"[[ПИО]]"}
+		{"id":"95fa7281418b2274","x":-578,"y":-358,"width":250,"height":60,"type":"text","text":"[[_resources/Templates/ПИО]]"}
 	],
 	"edges":[
 		{"id":"4ff8e706aff0a10d","fromNode":"92d04aa689118950","fromSide":"left","toNode":"6ec6804ab14652dd","toSide":"right"},
