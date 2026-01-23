@@ -56,3 +56,6 @@ x_{a} & y_{a}& z_{a}\\
 x_{b} & y_{b} & z_{b}\\
 \end{vmatrix}=
 $$
+$$
+\alpha \delta \theta \sigma \kappa \beta \varepsilon 
+$$
