@@ -1,3 +1,4 @@
+
 | Trigger | Replacement      |
 | ------- | ---------------- |
 | mk      | $ $              |
@@ -48,3 +49,10 @@ When running a snippet that **moves the cursor inside brackets {}, press Tab 
 |@o|\omega|||
 |ome|\omega||
 
+$$
+\vec{a}*\vec{b}=\begin{vmatrix}
+\vec{i} & \vec{j} & \vec{k}\\
+x_{a} & y_{a}& z_{a}\\
+x_{b} & y_{b} & z_{b}\\
+\end{vmatrix}=
+$$
